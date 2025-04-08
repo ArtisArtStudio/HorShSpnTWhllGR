@@ -95,7 +95,7 @@ text-align: center;
     /*transform: translateX(-10%) scale(0.8, 0.8);*/
   } 
 #boy {
-  line-height: 18vh;
+  line-height: 1.5 !important;
 }
 #tboy {
   margin-left: auto;
